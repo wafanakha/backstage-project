@@ -21,3 +21,4 @@ scrollEventWrapper(issue3, "#ffbe00");
 scrollEventWrapper(issue4, "#ff651a");
 scrollEventWrapper(issue5, "#00c1b5");
 scrollEventWrapper(issue6, "#ffffff");
+scrollEventWrapper(issue7, "#FF608C");
